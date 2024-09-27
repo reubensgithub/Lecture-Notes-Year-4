@@ -15,10 +15,10 @@
 **Final Report (60%, 30 pages):**
 - Deadline: Term 2 (30th April 2025)
 - Formatting: Follow the guidelines in the assessment specification.
-- Content: Should detail your research, methodology, findings, and conclusions.
+- Content: Should detail your research, methodology, findings, and conclusions. (ask supervisor for example reports)
 **Demonstration (10%):**
 - Deadline: Term 2 (Poster submission on 26th March 2025, and project show case on 1st May 2025)
-- Content: Present and demonstrate your project work.
+- Content: Present and demonstrate your project work. (QR codes in the poster)
 **Supervisor’s Report (10%):**
 - Criteria: Based on project log submission, engagement with the project, attendance, and task completion.
 
