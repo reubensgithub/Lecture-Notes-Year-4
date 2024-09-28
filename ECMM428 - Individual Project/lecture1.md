@@ -29,3 +29,5 @@
 - Ethical issues
 - Literature review plan
 - Time plan
+
+Have meetings biweekly, but I will probably do meetings once a week for now, depending on supervisor's preferences.
