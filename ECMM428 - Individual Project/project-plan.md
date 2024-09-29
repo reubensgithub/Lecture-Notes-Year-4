@@ -67,3 +67,9 @@
 - **Monetisation**: If you plan to offer this tool as a service, consider monetisation strategies, such as a subscription model, freemium version, or paid premium insights.
 
 By following this roadmap, you’ll create a well-structured Airbnb data tool that leverages machine learning to deliver valuable insights to hosts.
+
+### USEFUL LINKS
+- https://scholar.google.com
+- https://www.researchgate.net
+- https://www.kaggle.com/
+- https://insideairbnb.com/get-the-data
