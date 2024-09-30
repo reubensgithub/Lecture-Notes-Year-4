@@ -26,3 +26,6 @@ to occur at the end of this step.
 Advantage: Very simple! Can be very efficient when used in right case.
 E.g., ATM (Asynchronous transfer model) networks (cell size is fixed to 53 bytes)
 Problem: How big should t be?
+
+### Next-Event Time-Advance Approach:
+![Image](Next-Event-Time-Advance-Approach.jpeg)
