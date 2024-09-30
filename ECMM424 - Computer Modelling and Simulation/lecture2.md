@@ -28,4 +28,4 @@ E.g., ATM (Asynchronous transfer model) networks (cell size is fixed to 53 bytes
 Problem: How big should t be?
 
 ### Next-Event Time-Advance Approach:
-![Image](Next-Event-Time-Advance-Approach.jpg)
+![Next-Event Time Advance Approach](Next-Event-Time-Advance-Approach.jpg)
