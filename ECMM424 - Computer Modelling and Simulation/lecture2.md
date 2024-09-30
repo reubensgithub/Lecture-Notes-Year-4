@@ -29,3 +29,23 @@ Problem: How big should t be?
 
 ### Next-Event Time-Advance Approach:
 ![Next-Event Time Advance Approach](Next-Event-Time-Advance-Approach.jpg)
+
+### Summary of System Description
+**Events**:
+- Arrival of a customer
+- Departure of a customer (after service completion)
+**State variables of interest**
+- Expected average delay in queue
+𝑑(𝑛) = 
+- Expected average number of customers in the queue
+𝑞(𝑛) =
+- Expected server utilisation
+𝑢(𝑛) = 
+
+--- IMAGE NOT WORKING. HOST ONLINE AND USE LINK
+--- LOOK UP VIDEOS ON COMPUTER MODELING AND SIMULATION
+
+
+# Implementation of A Single-Server Queueing System Simulator
+### Design of an M/M/1 Simulator
+--- watch vids on this
