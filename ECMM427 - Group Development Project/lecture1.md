@@ -16,3 +16,18 @@
 - Sends project and will have one week to accept
 - Session next week after we've seen projects.
 - Book room and will find people and create groups then
+- Live-Client Project essentially
+
+**Feedback will be formative and summative**
+**Formative:**
+- Based on weekly supervisor meetings and
+based on planning and project management methodology
+- Based on presentation of the intermediate milestones
+
+**Summative:**
+- Term 1, Week 7 (Project Kick-Off Report) (20%)
+- Term 2, Week TBC (First Prototype and Demonstration) (20%)
+- Term 2, Week TBC (Final Prototype and Handover) (50%)
+- Term 2, Week TBC (Final Presentation) (10%)
+
+- Next week lecture won't be same time or place
