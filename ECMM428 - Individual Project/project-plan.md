@@ -73,3 +73,13 @@ By following this roadmap, you’ll create a well-structured Airbnb data tool th
 - https://www.researchgate.net
 - https://www.kaggle.com/
 - https://insideairbnb.com/get-the-data
+
+### Papers to look at
+**Airbnb article:**
+- https://journals.sagepub.com/doi/abs/10.1177/0047287517696980
+**Price Optimisation article:**
+- https://www.e3s-conferences.org/articles/e3sconf/abs/2023/28/e3sconf_icmed-icmpc2023_01104/e3sconf_icmed-icmpc2023_01104.html
+**Airbnb price optimisation articles:**
+- https://www.academia.edu/download/98582180/IJETAE_0122_14.pdf
+- https://link.springer.com/chapter/10.1007/978-3-030-84060-0_11
+- https://dl.acm.org/doi/abs/10.1145/3219819.3219830
