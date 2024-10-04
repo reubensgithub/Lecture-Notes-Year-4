@@ -72,7 +72,7 @@ By following this roadmap, you’ll create a well-structured Airbnb data tool th
 - https://scholar.google.com
 - https://www.researchgate.net
 - https://www.kaggle.com/
-- https://insideairbnb.com/get-the-data
+- https://insideairbnb.com/get-the-data 
 
 ### Papers to look at
 **Airbnb article:**
