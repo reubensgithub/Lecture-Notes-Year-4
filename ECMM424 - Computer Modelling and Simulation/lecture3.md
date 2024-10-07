@@ -21,3 +21,12 @@ service with the first free server.
 - A customer completes service from cashier 1.
 - A customer completes service from cashier 2.
 
+
+
+# Multi-Server Loss System Simulation
+M/M/C/C is an M/M/C model with a maximum of C customers/jobs allowed in the system.
+- Capacity of the system is limited and equal to the number of servers.
+- There are no waiting positions in the queue.
+- If the system is full when a job arrives it is denied entrance to the system and is lost.
+- Also known as m-Server Loss Systems.
+
