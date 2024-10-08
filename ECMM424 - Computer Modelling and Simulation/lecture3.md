@@ -28,5 +28,5 @@ M/M/C/C is an M/M/C model with a maximum of C customers/jobs allowed in the syst
 - Capacity of the system is limited and equal to the number of servers.
 - There are no waiting positions in the queue.
 - If the system is full when a job arrives it is denied entrance to the system and is lost.
-- Also known as m-Server Loss Systems.
+- Also known as m-Server Loss Systems. 
 
