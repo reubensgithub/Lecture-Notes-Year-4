@@ -28,3 +28,5 @@ Feature Importance:
 - Use feature importance techniques (e.g., in Random Forest, SHAP values) to determine which property features correlate with higher prices or bookings.
 
 Ask about model training (using Colab and getting paid plan)
+
+Overall goal is to create a tool to predict pricing, occupancy and feature importance for Airbnb hosts.
