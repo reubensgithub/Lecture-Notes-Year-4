@@ -57,3 +57,17 @@ lit review:
 - could drop topics if i write more on certain topics
 
 display advert hide images, display advert hide info and collect data on their estimates
+
+google cloud credits.
+
+random forests should run fine on normal machine
+
+
+things i would do:
+- fill out form and say i will be involving human subjects
+- have a think about things i been discussing
+- plan literature review and start research
+- could start loading in data and maybe start coding
+- - simple model predicting price on bedrooms as a beginner i guess
+- - start basic and add things as time passes
+- - try with inside airbnb dataset on seaside town.
