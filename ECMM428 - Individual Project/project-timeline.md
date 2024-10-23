@@ -30,3 +30,7 @@ Feature Importance:
 Ask about model training (using Colab and getting paid plan)
 
 Overall goal is to create a tool to predict pricing, occupancy and feature importance for Airbnb hosts.
+
+
+## 23/10/2024
+Work on literature review and cancel meeting this week. Work has not been sufficient enough to warrant a meeting
