@@ -13,5 +13,3 @@
 
 Notes:
 - airbnb api - have a look and see if I can access
-
- 
