@@ -38,4 +38,4 @@ Around 8-10 good references on what I'm going to do and another 10 ish on genera
 - Specifications (functional vs non-functional requirements)
 - Risk assessment
 - Evaluation
-- Conclusion 
+- Conclusion
