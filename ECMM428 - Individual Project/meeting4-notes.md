@@ -44,4 +44,4 @@ Around 8-10 good references on what I'm going to do and another 10 ish on genera
 - Put bulk of intro into context
 - Gant chart for timeline
 - Use figures and talk about low-end pricing and high-end pricing. Reference airbnb search queries
-- Follow spec and write accordingly. Objectives could be done in paragraphs outlining priority etc. 
+- Follow spec and write accordingly. Objectives could be done in paragraphs outlining priority etc.
