@@ -42,6 +42,9 @@ Around 8-10 good references on what I'm going to do and another 10 ish on genera
 
 # PLAN FOR TODAY
 - Put bulk of intro into context
-- Gant chart for timeline
+- Gantt chart for timeline
 - Use figures and talk about low-end pricing and high-end pricing. Reference airbnb search queries
 - Follow spec and write accordingly. Objectives could be done in paragraphs outlining priority etc.
+
+- hypothesis statement being that customers will get a better experience with renting out properties and earning profit
+when using my pricing tool 
