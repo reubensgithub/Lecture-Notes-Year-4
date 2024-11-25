@@ -65,3 +65,80 @@ when using my pricing tool
 
 
 # RECENT MEETING NOTES (22/11/2024)
+
+- Straight away say what I want to do  
+- “The following sets out background info on Airbnb and who uses it”  
+- Not sure if they have a good choice if they don’t have a bigger idea  
+- Remove first big sentence up to market pricing in market segmentation. It’s a filler sentence  
+
+- Market segmentation is different types of customers (tourists, commuters etc)  
+
+- First part of page 3 is relevant  
+- Remove all irrelevant references in market segmentation (keep (6))  
+- Remove irrelevant stuff. Don’t talk about water acces theme parks etc  
+
+- When talking about smart pricing, be wary of trademark  
+
+- Use own Google trends plot  
+- Download csv file and make own plot  
+- Draw lines at peaks and compare seasonality  
+
+- Introduce paper, within paragraph, don’t make any more references  
+- Key lit review section has too many references on 13  
+
+- Don’t write too much on one paper  
+- Remove last two figures since they don’t add much  
+
+## Two things to talk about:
+- Problem of setting initial price  
+- Dynamic pricing which is more complex  
+
+- Separate and look at papers on how to price airbnbs in a basic way  
+- Others trying to capture dynamic info  
+- Look at papers talking about pricing in a boring sense  
+- Don’t have to do Gantt chart. Can just detail tasks in order  
+- Can say the outcome and milestone for each task  
+
+- Compare dynamic pricing algorithm to airbnbs  
+
+### Tasks:
+- Task 1: collect data (1st-14th dec)  
+- Task 2: explore data  
+- Looking at reproducing the work from 13  
+- Task 3: feature selection  
+- Task 4: model building  
+
+- If one of outcomes is to reproduce the tool from paper / Airbnb  
+
+- How to take market information and dynamically suggest a price based on  
+- Talk about what models the papers used  
+
+- Project plan has to align with papers analysed  
+- How will I evaluate output  
+- What will I add to the papers  
+- Can’t say I’m doing dynamic pricing if I don’t know where I’ll get data from  
+
+## Break into Two Phases:
+1. Static analysis  
+   - Scraped Airbnb data  
+   - What is price next Wednesday to hire house  
+   - (number of rooms, location, facilities)  
+   - (don’t look at seasonality / events / demand)  
+   - (requires different info and testing)  
+
+2. Own dataset looking at future prices of properties based on accessing info with API then implement dynamic pricing for a person  
+
+- Show ambition in plan. Seem slightly difficult  
+- Test pricing algorithm to default what people apply vs what Airbnb does vs what is suitable  
+- Decide on evaluation strategy in project plan  
+
+- Trying to estimate demand curve based on dataset (figure 6 in paper 13)  
+
+- Write about paper 13 saying how Airbnb tried recreating the model. Make sure to mention Airbnb  
+- Say what they have access to and what I don’t have access to  
+- Potentially can determine  
+- Compare myself to their dynamic pricing algorithm  
+- Create database of properties using dynamic pricing and compare how mine compares to theirs.  
+- Can tell if they’re using dynamic pricing by pricing goes up and down  
+- Look at dynamic pricing in a field like hotels to have an idea of a general sense  
+- If can’t find more on dp on Airbnb, look at the hotels ones  
