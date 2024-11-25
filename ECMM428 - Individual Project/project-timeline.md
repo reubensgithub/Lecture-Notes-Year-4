@@ -38,3 +38,30 @@ Work on literature review and cancel meeting this week. Work has not been suffic
 ## 31/10/2024
 - So far, have written about a page
 - Need to work on it until Sunday and produce a good few more pages by then for the next meeting.
+
+## PLAN (written roughly 11/11/2024):
+- Continue introduction by explaining smart pricing and its competitors, talk about maximising revenue while keeping occupancy rates high
+- For context, talk more about airbnb, pricing landscape, (with regular properties too), factors influencing price (location, seasonality, demand)
+- Highlight how price impacts hosts and guests and relevance to the broader industry
+- Talk about market segmentation (who stays at airbnbs, what drives their preferences, customer types, factors that influence decisions, domain knowledge)
+- Data availability (data techniques, compare inside airbnb vs scraper), delve into legal and ethical aspects
+- Key literature review comparing papers, what techniques they're using, highlighting best techniques, compare strengths vs limitations, focus on pieces directly related to airbnb pricing.
+- foundational materials such as books.
+- Specifications (functional vs non-functional requirements)
+- Risk assessment
+- Evaluation
+- Conclusion
+
+# PLAN FOR TODAY
+- Put bulk of intro into context
+- Gantt chart for timeline
+- Use figures and talk about low-end pricing and high-end pricing. Reference airbnb search queries
+- Follow spec and write accordingly. Objectives could be done in paragraphs outlining priority etc.
+
+- hypothesis statement being that customers will get a better experience with renting out properties and earning profit
+when using my pricing tool 
+
+- talk about ML techniques that are relevant (like random forests, standard LR, not MLR etc)
+
+
+# RECENT MEETING NOTES (22/11/2024)
