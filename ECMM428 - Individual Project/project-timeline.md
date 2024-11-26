@@ -69,13 +69,13 @@ when using my pricing tool
 - Straight away say what I want to do  
 - “The following sets out background info on Airbnb and who uses it”  
 - Not sure if they have a good choice if they don’t have a bigger idea  
-- Remove first big sentence up to market pricing in market segmentation. It’s a filler sentence  
+- Remove first big sentence up to market pricing in market segmentation. It’s a filler sentence  DONE
 
 - Market segmentation is different types of customers (tourists, commuters etc)  
 
 - First part of page 3 is relevant  
-- Remove all irrelevant references in market segmentation (keep (6))  
-- Remove irrelevant stuff. Don’t talk about water acces theme parks etc  
+- Remove all irrelevant references in market segmentation (keep (6))  DONE
+- Remove irrelevant stuff. Don’t talk about water acces theme parks etc  DONE
 
 - When talking about smart pricing, be wary of trademark  
 
@@ -83,11 +83,11 @@ when using my pricing tool
 - Download csv file and make own plot  
 - Draw lines at peaks and compare seasonality  
 
-- Introduce paper, within paragraph, don’t make any more references  
-- Key lit review section has too many references on 13  
+- Introduce paper, within paragraph, don’t make any more references  DONE
+- Key lit review section has too many references on 13  DONE
 
 - Don’t write too much on one paper  
-- Remove last two figures since they don’t add much  
+- Remove last two figures since they don’t add much  DONE
 
 ## Two things to talk about:
 - Problem of setting initial price  
@@ -123,7 +123,7 @@ when using my pricing tool
    - Scraped Airbnb data  
    - What is price next Wednesday to hire house  
    - (number of rooms, location, facilities)  
-   - (don’t look at seasonality / events / demand)  
+   - (don’t look at seasonality / events / demand)  DONE DONE DONE
    - (requires different info and testing)  
 
 2. Own dataset looking at future prices of properties based on accessing info with API then implement dynamic pricing for a person  
@@ -141,4 +141,4 @@ when using my pricing tool
 - Create database of properties using dynamic pricing and compare how mine compares to theirs.  
 - Can tell if they’re using dynamic pricing by pricing goes up and down  
 - Look at dynamic pricing in a field like hotels to have an idea of a general sense  
-- If can’t find more on dp on Airbnb, look at the hotels ones  
+- If can’t find more on dynamic pricing on Airbnb, look at the hotels ones  
