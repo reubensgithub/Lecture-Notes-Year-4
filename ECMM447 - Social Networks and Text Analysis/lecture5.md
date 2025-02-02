@@ -9,3 +9,4 @@ that run along the edge.
 Girvan-Newman: we recursively remove the edge with the largest betweenness 
 until no edges remain.
 
+Louvain algorithm is very fast for modularity maximisation
