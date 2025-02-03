@@ -8,3 +8,5 @@ Motion (camera pose): Given a set of corresponding
 points in two or more images, compute the camera
 parameters
 
+
+# Lecture 8 - Neural Networks
